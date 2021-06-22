@@ -1,10 +1,10 @@
 # https://paiza.jp/works/mondai/skillcheck_sample/min_num
 
 # 模範解答
-array = []
-5.times { array.push gets.to_i }
+# array = []
+# 5.times { array.push gets.to_i }
 
-puts array.min
+# puts array.min
 
 
 
